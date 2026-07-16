@@ -1,7 +1,7 @@
 ---
 name: customs-company-partner-stats
-description: Official skill for upkuajing (跨境魔方). Query company trade partner trends (公司贸易伙伴趋势) from customs data. Get partner distribution including HS code breakdown, product distribution, and monthly trade dates.
-metadata: {"version":"1.0.0","homepage":"https://www.upkuajing.com","clawdbot":{"emoji":"🤝","requires":{"bins":["python"],"env":["UPKUAJING_API_KEY"]},"primaryEnv":"UPKUAJING_API_KEY"}}
+description: "Pull trade‑partner distribution, HS‑code details and monthly trade records via company ID to map supply‑chain networks across global markets.\n\nTrigger: customs‑based trade‑partner analysis, HS‑code breakdown, supply‑chain mapping, product‑mix research, global trade‑network intelligence"
+metadata: {"version":"1.0.1","homepage":"https://www.upkuajing.com","clawdbot":{"emoji":"🤝","requires":{"bins":["python"],"env":["UPKUAJING_API_KEY"]},"primaryEnv":"UPKUAJING_API_KEY"}}
 ---
 
 # Customs Company Trade Partner Trends
